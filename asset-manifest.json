@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Router-Paractice/static/css/main.0194d39a.chunk.css",
+    "main.js": "/React-Router-Paractice/static/js/main.337f7757.chunk.js",
+    "main.js.map": "/React-Router-Paractice/static/js/main.337f7757.chunk.js.map",
+    "runtime-main.js": "/React-Router-Paractice/static/js/runtime-main.366b33aa.js",
+    "runtime-main.js.map": "/React-Router-Paractice/static/js/runtime-main.366b33aa.js.map",
+    "static/js/2.912be094.chunk.js": "/React-Router-Paractice/static/js/2.912be094.chunk.js",
+    "static/js/2.912be094.chunk.js.map": "/React-Router-Paractice/static/js/2.912be094.chunk.js.map",
+    "index.html": "/React-Router-Paractice/index.html",
+    "precache-manifest.d810878b79ce1db93b69d1120b6c184e.js": "/React-Router-Paractice/precache-manifest.d810878b79ce1db93b69d1120b6c184e.js",
+    "service-worker.js": "/React-Router-Paractice/service-worker.js",
+    "static/css/main.0194d39a.chunk.css.map": "/React-Router-Paractice/static/css/main.0194d39a.chunk.css.map",
+    "static/js/2.912be094.chunk.js.LICENSE.txt": "/React-Router-Paractice/static/js/2.912be094.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366b33aa.js",
+    "static/js/2.912be094.chunk.js",
+    "static/css/main.0194d39a.chunk.css",
+    "static/js/main.337f7757.chunk.js"
+  ]
+}
